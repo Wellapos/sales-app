@@ -1,0 +1,10 @@
+# Ignore everything except .ts and .tsx files
+*
+!*.ts
+!*.tsx
+
+# Ignore specific directories
+node_modules
+coverage
+build
+dist
